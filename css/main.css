@@ -1,0 +1,31 @@
+
+
+body{
+	
+	background-color:red;
+	
+	
+}
+
+h1{
+	text-transform: uppercase;
+	text-align: center;
+	background-color: brown;
+	font-family: Arial;
+}
+h2{
+	font-size: 35px;
+	background-color: aqua;
+	color: #45C979;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	text-align: center;
+	
+}
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
