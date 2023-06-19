@@ -4,7 +4,10 @@ body{
 	
 	background-color:red;
 	
+	ul li{
 	
+	display: inline;margin-left: 18px;
+}
 }
 
 h1{
