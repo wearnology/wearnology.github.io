@@ -4,12 +4,12 @@ body{
 	
 	background-color:red;
 	
-	ul li{
+	
+}
+ul li{
 	
 	display: inline;margin-left: 18px;
 }
-}
-
 h1{
 	text-transform: uppercase;
 	text-align: center;
