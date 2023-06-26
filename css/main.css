@@ -27,5 +27,18 @@ input[type=text] {
   box-sizing: border-box;
 }
 
-ul li{display: inline;margin-left: 18px;}
+ul li {
+display: inline;
+margin-left: 50px;
+display:contents;
+
+}
+
+a {
+padding: 40px 20px;
+text-decoration: none;
+font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+font-size: 20px;
+color:black
+}
 
